@@ -4,7 +4,7 @@
 #
 Name     : azure-keyvault-nspkg
 Version  : 1.0.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/ae/5c/76a6fee57b2bf7e01cb3b59cda88debd552920b69042786de6ad76905661/azure-keyvault-nspkg-1.0.0.zip
 Source0  : https://files.pythonhosted.org/packages/ae/5c/76a6fee57b2bf7e01cb3b59cda88debd552920b69042786de6ad76905661/azure-keyvault-nspkg-1.0.0.zip
 Summary  : Microsoft Azure Key Vault Namespace Package [Internal]
